@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Kasetsart Univer
 - 🎓 __* Computer Science student at <a href="[https://www.ku.ac.th/th]"> <b>Kasetsart University</b>.*__
 
 ## My Cybersecurity Interests
-<img hight="400" width="500" alt="GIF" align="right" src="[https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif]" width="50%"/>
+<img hight="400" width="500" alt="GIF" align="right" src="[https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif]" width="50%"/>
 
 ## My Interests
 - 💻 Programming and Software Development
