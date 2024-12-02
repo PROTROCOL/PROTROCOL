@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at Kasetsart Univer
 - 🎓 __* Computer Science student at <a href="[https://www.ku.ac.th/th]"> <b>Kasetsart University</b>.*__
 
 ## My Cybersecurity Interests
-<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="50%"/>
+<img hight="400" width="500" alt="GIF" align="right" src="https://www.google.com/search?sca_esv=e058c774e46ad98b&rlz=1C1CHBF_enTH858TH858&sxsrf=ADLYWIJAy8T31cTBbVUBf6n_2z7yXR1Ljg:1733129587645&q=gif+programming&udm=2&fbs=AEQNm0CkraFHbSSYNYrpAw8CoqsQ8iSZa1GGh3QggPoRTOJcz4gsDNKbviiXDyibBnz4CirjoAmD9N5BqbPvlmaxw9NU8VZDu82gqbylcMT8gr7peiux7NqwGBeT5fXloBKeFqT9H_YGX28MUF_B_YWsGltwar7DYv9oFHT3NC6EX9j_2bg3muL3-B-9zSqmEAIS8E8tczmLRrgW0edfyEc2taF1hKJ_D2QNGYZBHosXxP-_r9EaKc-JA3cduIL6yI2IYCO95994y47GzP9Q11OGGuVAsr1VND8tHuIsjCOm57rfExkLvdM&sa=X&ved=2ahUKEwjFka_r2oiKAxWqSWwGHTgBKWUQtKgLegQIFBAB&biw=1536&bih=730&dpr=1.25#imgrc=uYYa30tHbsaH2M&imgdii=7z7M3c9hx6AqIM" width="50%"/>
 
 ## My Interests
 - 💻 Programming and Software Development
